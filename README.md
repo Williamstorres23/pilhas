@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de um README.md em Markdown para explicar o conceito de pilhas e incluir exemplos de implementação em C. Você pode usar este modelo para seu repositório no GitHub.
-
-```markdown
 # Pilhas em C
 
 ## Introdução
